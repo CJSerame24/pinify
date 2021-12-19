@@ -1,4 +1,4 @@
-.card {
+.card{
     width: 250px;
     height: 250px;
     display: flex;
@@ -6,20 +6,19 @@
     justify-content: space-around;
 }
 
-label {
+label{
     width: max-content;
     color: tomato;
-    font-size:13px;
+    font-size: 13px;
     border-bottom: .5px solid tomato;
     margin: 3px 0;
-
 }
 
-.desc{
+.desc {
     font-size: 14px;
 }
 
-.star{
+.star {
     color: gold;
 }
 
@@ -27,4 +26,6 @@ label {
     font-size: 14px;
 }
 
-.date{font-size: 12px;}
+.date {
+    font-size: 12px;
+}
