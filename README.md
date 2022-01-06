@@ -24,10 +24,23 @@ In this application, you can pin your location and share your reviews with other
   * `MaterialUI`
   * `Axios` 
   * `Google fonts` 
+  * `Timeago.js`
+  * `Express`
+  * `Mongoose`
+
+
+
 
 
 ## Installations
 To install this app, first is to initilize the app using `npm init` then install all the dependencies using `npm i`. then `npm start` to start the application.
+
+## Usage
+Steps
+- Sign up
+- Login
+- Double click on the location you wish to pin 
+- It's gonna pop up a Title/Description/Rating/User/timeframe
 
 
 
